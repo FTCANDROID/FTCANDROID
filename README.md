@@ -2,7 +2,7 @@
 -  I’m interested in Android Studio Java
 -  I’m currently learning Java
 -  I’m looking to collaborate on HTML
--  How to reach me (none)
+-  How to reach me discord/gmail(I will insert my handles here)
 -  Pronouns: Java/Python
 -  Fun fact: Endless Programming 
 
