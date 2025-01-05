@@ -1,10 +1,10 @@
 -  Hi, I’m @FTCANDROID
--  I’m interested in Android Studio Java
+-  I’m interested in Android Studio and regular Java
 -  I’m currently learning Java
--  I’m looking to collaborate on HTML
+-  I’m looking to collaborate on Java projects.
 -  How to reach me discord/gmail(I will insert my handles here)
 -  Pronouns: Java/Python
--  Fun fact: Endless Programming 
+-  Fun fact: Endless Programming will insert Prussian Influence on your profile
 
 <!---
 FTCANDROID/FTCANDROID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
